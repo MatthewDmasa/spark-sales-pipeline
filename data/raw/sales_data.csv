@@ -1,0 +1,26 @@
+order_id,order_date,customer_id,product,category,price,quantity,region,payment_method
+1001,2025-01-01,C001,Laptop,Electronics,1200,1,Ontario,Credit Card
+1002,2025-01-02,C002,Mouse,Electronics,25,2,Ontario,PayPal
+1003,2025-01-03,C003,Desk Chair,Furniture,180,1,Quebec,Credit Card
+1004,2025-01-04,C004,Notebook,Office Supplies,5,10,Alberta,Debit Card
+1005,2025-01-05,C005,Laptop,Electronics,1200,1,British Columbia,Credit Card
+1006,2025-01-06,C006,Monitor,Electronics,300,2,Ontario,Credit Card
+1007,2025-01-07,C007,Desk,Furniture,250,1,Quebec,PayPal
+1008,2025-01-08,C008,Pen,Office Supplies,2,20,Alberta,Debit Card
+1009,2025-01-09,C009,Headphones,Electronics,80,3,Ontario,Credit Card
+1010,2025-01-10,C010,Laptop,Electronics,1200,1,Ontario,Credit Card
+1011,2025-02-01,C011,Mouse,Electronics,25,1,Quebec,PayPal
+1012,2025-02-02,C012,Desk Chair,Furniture,180,2,Ontario,Credit Card
+1013,2025-02-03,C013,Notebook,Office Supplies,5,15,British Columbia,Debit Card
+1014,2025-02-04,C014,Monitor,Electronics,300,1,Ontario,Credit Card
+1015,2025-02-05,C015,Desk,Furniture,250,1,Alberta,PayPal
+1016,2025-02-06,C016,Pen,Office Supplies,2,30,Quebec,Debit Card
+1017,2025-02-07,C017,Headphones,Electronics,80,2,Ontario,Credit Card
+1018,2025-02-08,C018,Laptop,Electronics,1200,1,Ontario,Credit Card
+1019,2025-02-09,C019,Mouse,Electronics,25,4,Alberta,PayPal
+1020,2025-02-10,C020,Notebook,Office Supplies,5,25,Ontario,Debit Card
+1020,2025-02-10,C020,Notebook,Office Supplies,5,25,Ontario,Debit Card
+1021,,C021,Monitor,Electronics,300,1,Ontario,Credit Card
+1022,2025-02-12,C022,,Electronics,50,1,Ontario,Credit Card
+1023,2025-02-13,C023,Desk,Furniture,,1,Quebec,PayPal
+1024,2025-02-14,C024,Pen,Office Supplies,2,,Alberta,Debit Card

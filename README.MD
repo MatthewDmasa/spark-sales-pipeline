@@ -1,8 +1,8 @@
-\# PySpark E-Commerce Sales Data Pipeline
+# PySpark E-Commerce Sales Data Pipeline
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ This project demonstrates a beginner to intermediate data engineering pipeline u
 
 
 
-\---
+---
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -25,22 +25,22 @@ This project demonstrates a beginner to intermediate data engineering pipeline u
 
 
 
-\---
+---
 
 
 
-\## Pipeline Workflow
+## Pipeline Workflow
 
 
 
-\### 1. Data Ingestion
+### 1. Data Ingestion
 
 * Load raw CSV data into a Spark DataFrame
 * Infer schema and validate structure
 
 
 
-\### 2. Data Cleaning
+### 2. Data Cleaning
 
 * remove duplicate records
 * Drop rows with missing critical values
@@ -49,14 +49,14 @@ This project demonstrates a beginner to intermediate data engineering pipeline u
 
 
 
-\### 3. Transformation
+### 3. Transformation
 
 * Create 'revenue' column (price \* quantity)
 * Extract year and month from order date
 
 
 
-\### 4. Aggregations / Insights
+### 4. Aggregations / Insights
 
 * Top products by revenue
 * Sales by region
@@ -64,7 +64,7 @@ This project demonstrates a beginner to intermediate data engineering pipeline u
 
 
 
-\### 5. Output
+### 5. Output
 
 * Cleaned dataset exported to CSV
 * Aggregated insights exported to CSV
@@ -75,11 +75,11 @@ This project demonstrates a beginner to intermediate data engineering pipeline u
 
 
 
-\---
+---
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -97,11 +97,11 @@ spark-sales-pipeline/
 
 
 
-\---
+---
 
 
 
-\## How to Run
+## How to Run
 
 
 
@@ -110,5 +110,5 @@ spark-sales-pipeline/
 pip install -r requirements.txt
 
 python src/sales\\\_pipeline.py
-
+```
 

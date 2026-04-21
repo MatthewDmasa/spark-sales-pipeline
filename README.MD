@@ -105,10 +105,10 @@ spark-sales-pipeline/
 
 
 
-```bash
+```
 
 pip install -r requirements.txt
 
-python src/sales\\\_pipeline.py
+python src/sales_pipeline.py
 ```
 
